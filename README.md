@@ -1,7 +1,7 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/089d21ad-7782-4104-89c2-a65435feaa61/d9dbds5-953028f0-861a-4db8-9b6f-91162fe1959d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4OWQyMWFkLTc3ODItNDEwNC04OWMyLWE2NTQzNWZlYWE2MVwvZDlkYmRzNS05NTMwMjhmMC04NjFhLTRkYjgtOWI2Zi05MTE2MmZlMTk1OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V4cjYqRZbpYo5gZ_cXGMswU-GI-vp3KNKuVhEjE6Clw)
 <h1 align="center">Hi 👋, I'm Armaan Shukla</h1>
 <h3 align="center">A passionate AI/ML and Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-009&label=Profile%20views&color=0e75b6&style=flat" alt="ice-009" /> </p>
 
