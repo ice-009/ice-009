@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **21bma009@nith.ac.in**
 
-- ⚡ Fun fact **I am gay :)**
+- ⚡ Fun fact **I hate people :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
