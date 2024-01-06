@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-009&label=Profile%20views&color=0e75b6&style=flat" alt="ice-009" /> </p>
 
-- 🔭 I’m currently working on [NITH_App](https://github.com/Legend101Zz/NITH-App)
+- 🔭 I’m currently working on [Ice-Stock_App]()
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **GoLang**
 
 - 🤝 I’m looking for help with **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ice-009?tab=repositories](https://github.com/ice-009?tab=repositories)
 
-- 💬 Ask me about **AI,ML**
+- 💬 Ask me about **_____**
 
 - 📫 How to reach me **21bma009@nith.ac.in**
 
-- ⚡ Fun fact **I hate people :)**
+- ⚡ Fun fact **Fun is fun :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
