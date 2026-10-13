@@ -28,9 +28,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| ♟️ **[ChessCoach](https://chess-coach-psi-tawny.vercel.app)** | Chess training PWA: Stockfish 19 in parallel WebAssembly workers, 372K master games / 15M positions in SQLite running fully offline, accounts + sync on Vercel and Upstash Redis | React · TypeScript · WASM · SQLite · Redis |
+| ♟️ **[ChessCoach](https://chess-coach-psi-tawny.vercel.app)** · [code](https://github.com/ice-009/chess-coach) | Chess training PWA: Stockfish 19 in parallel WebAssembly workers, 372K master games / 15M positions in SQLite running fully offline, accounts + sync on Vercel and Upstash Redis | React · TypeScript · WASM · SQLite · Redis |
+| 🧭 **[SysDesign Atlas](https://sysdesign-atlas.vercel.app)** · [code](https://github.com/ice-009/sysdesign-atlas) | 130-topic systems curriculum, from hardware and queueing to distributed correctness, storage internals and AI infrastructure | Next.js · React · Prisma · PostgreSQL |
 | ₿ **[Caravan](https://github.com/caravan-bitcoin/caravan)** | Open-source multisig Bitcoin wallet. My PRs: transaction history ([#340](https://github.com/caravan-bitcoin/caravan/pull/340), [#352](https://github.com/caravan-bitcoin/caravan/pull/352)), spend-waste slider ([#311](https://github.com/caravan-bitcoin/caravan/pull/311)), dust classifier ([#319](https://github.com/caravan-bitcoin/caravan/pull/319)) | TypeScript · React · Redux |
-| 📚 **[DSA Revise](https://dsa-revision-neon.vercel.app)** | Offline-first PWA for daily DSA revision on iPad | JavaScript · Service Worker |
+| 📚 **[DSA Revise](https://dsa-revision-neon.vercel.app)** · [code](https://github.com/ice-009/dsa-revision) | Offline-first PWA for daily DSA revision on iPad | JavaScript · Service Worker |
 
 ### 🧰 Tech stack
 
