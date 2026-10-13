@@ -1,36 +1,70 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/089d21ad-7782-4104-89c2-a65435feaa61/d9dbds5-953028f0-861a-4db8-9b6f-91162fe1959d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4OWQyMWFkLTc3ODItNDEwNC04OWMyLWE2NTQzNWZlYWE2MVwvZDlkYmRzNS05NTMwMjhmMC04NjFhLTRkYjgtOWI2Zi05MTE2MmZlMTk1OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V4cjYqRZbpYo5gZ_cXGMswU-GI-vp3KNKuVhEjE6Clw)
-<h1 align="center">Hi 👋, I'm Armaan Shukla</h1>
-<h3 align="center">A passionate AI/ML and Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
+<h1 align="center">Hi, I'm Armaan Shukla 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-009&label=Profile%20views&color=0e75b6&style=flat" alt="ice-009" /> </p>
-
-- 🔭 I’m currently working on [Ice-Stock_App]()
-
-- 🌱 I’m currently learning **GoLang**
-
-- 🤝 I’m looking for help with **Frontend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ice-009?tab=repositories](https://github.com/ice-009?tab=repositories)
-
-- 💬 Ask me about **_____**
-
-- 📫 How to reach me **21bma009@nith.ac.in**
-
-- ⚡ Fun fact **Fun is fun :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/icee_009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armaanshukla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/armaan shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/armaan._shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armaan._shukla" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://armaanshukla.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Oracle;Backend+%26+real-time+systems+in+C%2B%2B+and+Python;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Node.js;Ex-Peakflo+(YC+W22)+%C2%B7+Summer+of+Bitcoin+2025" alt="Software Engineer at Oracle · Backend & real-time systems · Full-stack" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://armaanshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-armaanshukla.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/armaanshukla"><img src="https://img.shields.io/badge/LinkedIn-armaanshukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/ice-009"><img src="https://img.shields.io/badge/LeetCode-281_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:armaanshukla06@gmail.com"><img src="https://img.shields.io/badge/Email-armaanshukla06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice-009&show_icons=true&locale=en&layout=compact" alt="ice-009" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-009&show_icons=true&locale=en" alt="ice-009" /></p>
+### 🧑‍💻 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ice-009&" alt="ice-009" /></p>
+- 🏢 **Software Engineer I at Oracle** (Oracle Communications) since Jul 2025: backend and real-time systems in **C++ and Python**, services on **Kubernetes**
+- ⚡ Built a one-click provisioning platform that cut setup from **3 hours to 5 minutes**, and a debugging analytics platform used by **10 teams**
+- ₿ **Summer of Bitcoin 2025** (selected from 8,000+): **4 merged PRs, 3,300+ lines** to the Caravan multisig wallet
+- 🚀 Previously **Software Engineer Intern at Peakflo (YC W22)**: OCR pipeline with 95%+ accuracy, dashboard 40% faster
+- 🎓 B.Tech, Mathematics & Computing, **NIT Hamirpur** (2025), CGPA 8.87
+- 📫 Open to **SDE / backend / full-stack** roles in Bengaluru or remote. See my [portfolio](https://armaanshukla.vercel.app)
+
+### 🛠️ Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| ♟️ **[ChessCoach](https://chess-coach-psi-tawny.vercel.app)** | Chess training PWA: Stockfish 19 in parallel WebAssembly workers, 372K master games / 15M positions in SQLite running fully offline, accounts + sync on Vercel and Upstash Redis | React · TypeScript · WASM · SQLite · Redis |
+| ₿ **[Caravan](https://github.com/caravan-bitcoin/caravan)** | Open-source multisig Bitcoin wallet. My PRs: transaction history ([#340](https://github.com/caravan-bitcoin/caravan/pull/340), [#352](https://github.com/caravan-bitcoin/caravan/pull/352)), spend-waste slider ([#311](https://github.com/caravan-bitcoin/caravan/pull/311)), dust classifier ([#319](https://github.com/caravan-bitcoin/caravan/pull/319)) | TypeScript · React · Redux |
+| 📚 **[DSA Revise](https://dsa-revision-neon.vercel.app)** | Offline-first PWA for daily DSA revision on iPad | JavaScript · Service Worker |
+
+### 🧰 Tech stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+
+**Backend & web**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
+
+**Data**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
+
+**Networking & security**: TLS · PKI · TCP/IP · DNS · SIP · RTP · Wireshark
