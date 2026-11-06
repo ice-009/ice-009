@@ -1,8 +1,8 @@
 <a href="https://armaanshukla.vercel.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:1d4ed8,100:6d28d9&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" alt="Armaan Shukla — Software Engineer at Oracle" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4%2C50:3b82f6%2C100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490%2C50:1d4ed8%2C100:6d28d9&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4%2C50:3b82f6%2C100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" alt="Armaan Shukla — Software Engineer at Oracle" />
   </picture>
 </a>
 
@@ -153,7 +153,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=110&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:1d4ed8,100:0e7490&height=110&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=110&section=footer" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6%2C50:3b82f6%2C100:06b6d4&height=110&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9%2C50:1d4ed8%2C100:0e7490&height=110&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6%2C50:3b82f6%2C100:06b6d4&height=110&section=footer" alt="" />
 </picture>
