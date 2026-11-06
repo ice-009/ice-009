@@ -1,10 +1,18 @@
 <a href="https://armaanshukla.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" alt="Armaan Shukla — Software Engineer at Oracle" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:1d4ed8,100:6d28d9&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=200&section=header&text=Armaan%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Oracle&descSize=18&descAlignY=58&animation=fadeIn" alt="Armaan Shukla — Software Engineer at Oracle" />
+  </picture>
 </a>
 
 <p align="center">
   <a href="https://armaanshukla.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Backend+%26+real-time+systems+in+C%2B%2B+and+Python;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Node.js;Ex-Peakflo+(YC+W22)+%C2%B7+Summer+of+Bitcoin+2025;Building+an+open-source+trading+terminal" alt="Backend & real-time systems · Full-stack · Ex-Peakflo (YC W22) · Summer of Bitcoin 2025" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Backend+%26+real-time+systems+in+C%2B%2B+and+Python;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Node.js;Ex-Peakflo+(YC+W22)+%C2%B7+Summer+of+Bitcoin+2025;Building+an+open-source+trading+terminal" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=0E7490&center=true&vCenter=true&width=640&lines=Backend+%26+real-time+systems+in+C%2B%2B+and+Python;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Node.js;Ex-Peakflo+(YC+W22)+%C2%B7+Summer+of+Bitcoin+2025;Building+an+open-source+trading+terminal" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Backend+%26+real-time+systems+in+C%2B%2B+and+Python;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Node.js;Ex-Peakflo+(YC+W22)+%C2%B7+Summer+of+Bitcoin+2025;Building+an+open-source+trading+terminal" alt="Backend & real-time systems · Full-stack · Ex-Peakflo (YC W22) · Summer of Bitcoin 2025" />
+    </picture>
   </a>
 </p>
 
@@ -144,4 +152,8 @@
   <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/ice-009/ice-009/output/github-snake.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=110&section=footer" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=110&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:1d4ed8,100:0e7490&height=110&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=110&section=footer" alt="" />
+</picture>
